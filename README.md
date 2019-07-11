@@ -1,2 +1,0 @@
-# fang
-my first demo!!!
