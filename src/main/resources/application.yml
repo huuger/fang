@@ -1,2 +1,6 @@
 server:
+<<<<<<< HEAD
         port: 8183
+=======
+  port: 8182
+>>>>>>> fungbra
